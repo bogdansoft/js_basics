@@ -1,0 +1,13 @@
+console.log("WELCOME TO THE CARNIVAL GIFT SHOP!");
+console.log("Hello friend! Thank you for visiting the carnival!");
+console.log("Here's the list of gifts:\n");
+console.log("Teddy Bear");
+console.log("Big Red Ball");
+console.log("Huge Bear");
+console.log("Candy");
+console.log("Stuffed Tiger");
+console.log("Stuffed Dragon");
+console.log("Skateboard");
+console.log("Toy Car");
+console.log("Basketball");
+console.log("Scary Mask");
