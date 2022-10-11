@@ -202,7 +202,13 @@ files:
     if __name__ == '__main__':
         CarnivalGiftShopTest('main').run_tests()
   learner_created: false
-feedback_link: https://hyperskill.org/projects/277/stages/1405/implement#comment
+- name: main2.js
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/21706#comment
 check_profile: hyperskill_node_javascript
-status: Unchecked
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Tue, 11 Oct 2022 06:40:45 UTC
 record: -1
