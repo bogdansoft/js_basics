@@ -270,7 +270,16 @@ files:
     if __name__ == '__main__':
         CarnivalGiftShopTest('main').run_tests()
   learner_created: false
+- name: mai.js
+  visible: true
+  learner_created: true
+- name: madsa.js
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/learn/step/21707#comment
 check_profile: hyperskill_node_javascript
-status: Unchecked
-record: -1
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Wed, 12 Oct 2022 09:03:02 UTC
+record: 4
